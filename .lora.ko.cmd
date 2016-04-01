@@ -1,0 +1,1 @@
+cmd_/home/lichen/imx28/zlg/linux-2.6.35.3/rf-completion/lora.ko := arm-fsl-linux-gnueabi-ld -EL -r  -T /home/lichen/imx28/zlg/linux-2.6.35.3/scripts/module-common.lds --build-id -o /home/lichen/imx28/zlg/linux-2.6.35.3/rf-completion/lora.ko /home/lichen/imx28/zlg/linux-2.6.35.3/rf-completion/lora.o /home/lichen/imx28/zlg/linux-2.6.35.3/rf-completion/lora.mod.o
